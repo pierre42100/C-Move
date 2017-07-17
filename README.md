@@ -1,0 +1,3 @@
+# Move
+
+A simple move file programm, that doesn't takes in charge particular string or expression. It can be considered as a "fast-done" alternative to rm...
